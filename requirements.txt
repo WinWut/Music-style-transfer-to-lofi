@@ -1,0 +1,12 @@
+tensorflow
+soundfile                    
+torchaudio
+pillow
+scipy
+matplotlib
+scikit-image
+librosa
+torch
+tqdm
+h5py
+streamlit
