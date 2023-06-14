@@ -3,6 +3,8 @@ soundfile
 torchaudio
 pillow
 scipy
+spleeter
+pydub
 matplotlib
 scikit-image
 librosa
